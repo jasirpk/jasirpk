@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasir_pk2440" target="blank"><img src="https://img.shields.io/twitter/follow/jasir_pk2440?logo=twitter&style=for-the-badge" alt="jasir_pk2440" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **API**
 
 - 👨‍💻 All of my projects are available at [jasirpk.github.io/personalportfolio/](jasirpk.github.io/personalportfolio/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jasijasu959@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am JP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
