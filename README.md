@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/jasir_pk2440" target="blank"><img src="https://img.shields.io/twitter/follow/jasir_pk2440?logo=twitter&style=for-the-badge" alt="jasir_pk2440" /></a> </p>
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently Working at **Tathkarah Travel And Tourism PVT LTD**
 
 - 👨‍💻 All of my projects are available at [jasirpk.github.io/personalportfolio/](jasirpk.github.io/personalportfolio/)
 
 - 💬 Ask me about **Android,flutter**
 
-- 📫 How to reach me **jasijasu959@gmail.com**
+- 📫 How to reach me **jasir.techofficial@gmail.com**
 
-- ⚡ Fun fact **I am JP**
+- ⚡ Fun fact **I code for fun, but I also have a knack for overthinking solutions – sometimes I debug my own thoughts!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
