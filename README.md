@@ -102,7 +102,7 @@ graph TD
 - 🌱 **Currently Working:** Frontend Developer at Tathkarah Travel And Tourism PVT LTD
 - 👨‍💻 **Portfolio:** [https://jasirpk.github.io/](https://jasirpk.github.io/)
 - 💬 **Ask me about:** Android Development, Flutter, UI/UX Design
-- 🎯 **2024 Goals:** Master advanced Flutter animations and contribute to open source
+- 🎯 **2025 Goals:** Master advanced Flutter animations and contribute to open source
 - ⚡ **Fun fact:** I debug my own thoughts as much as my code!
 
 ---
