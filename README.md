@@ -33,8 +33,8 @@ const jasir = {
     technologies: {
         frontEnd: ["HTML5", "CSS3", "Flutter"],
         mobileApp: ["Flutter", "Android"],
-        tools: ["Git", "Figma", "VS Code"],
-        architecture: ["Responsive Design", "Progressive Web Apps"]
+        tools: ["Git", "Figma", "VS Code", "Android Studio",],
+        architecture: ["Responsive Design", "Progressive Web Apps", "Cross Platform Mobile Apps",]
     },
     currentFocus: "Building amazing mobile experiences with Flutter",
     funFact: "I code for fun, but I also have a knack for overthinking solutions!"
