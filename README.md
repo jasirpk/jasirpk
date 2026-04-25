@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Jasir+PK;Frontend+Developer+%7C+Mobile+App+Developer;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Jasir+PK;Frontend+Developer+%7C+Mobile+App+Developer;React+%7C+Flutter+%7C+Full+Stack+Enthusiast;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
   </h1>
   
   <h3>🚀 Passionate Frontend & Mobile Developer from Kerala, India 🇮🇳</h3>
@@ -31,12 +31,17 @@ const jasir = {
     company: "Tathkarah Travel And Tourism PVT LTD",
     code: ["JavaScript", "Dart", "Java", "C"],
     technologies: {
-        frontEnd: ["HTML5", "CSS3", "Flutter"],
+        frontEnd: ["HTML5", "CSS3", "React", "Flutter"],
         mobileApp: ["Flutter", "Android"],
-        tools: ["Git", "Figma", "VS Code", "Android Studio",],
-        architecture: ["Responsive Design", "Progressive Web Apps", "Cross Platform Mobile Apps",]
+        tools: ["Git", "Figma", "VS Code", "Android Studio"],
+        architecture: [
+            "Responsive Design",
+            "Progressive Web Apps",
+            "Cross Platform Mobile Apps",
+            "Component-Based Architecture"
+        ]
     },
-    currentFocus: "Building amazing mobile experiences with Flutter",
+    currentFocus: "Building amazing web experiences with React & mobile apps with Flutter",
     funFact: "I code for fun, but I also have a knack for overthinking solutions!"
 };
 ```
@@ -50,6 +55,7 @@ const jasir = {
 <div align="center">
 
 ### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -57,10 +63,12 @@ const jasir = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -90,19 +98,22 @@ const jasir = {
 ```mermaid
 graph TD
     A[🎯 Current Goals] --> B[Flutter Development]
-    A --> C[UI/UX Design]
-    A --> D[Problem Solving]
-    B --> E[Cross-platform Apps]
-    C --> F[User Experience]
-    D --> G[LeetCode Challenges]
+    A --> C[React Development]
+    A --> D[UI/UX Design]
+    A --> E[Problem Solving]
+    B --> F[Cross-platform Apps]
+    C --> G[Web Applications]
+    D --> H[User Experience]
+    E --> I[LeetCode Challenges]
 ```
 
 </div>
 
 - 🌱 **Currently Working:** Frontend Developer at Tathkarah Travel And Tourism PVT LTD
+- ⚛️ **Learning:** React — building dynamic, component-driven web apps
 - 👨‍💻 **Portfolio:** [https://jasirpk.github.io/](https://jasirpk.github.io/)
-- 💬 **Ask me about:** Android Development, Flutter, UI/UX Design
-- 🎯 **2025 Goals:** Master advanced Flutter animations and contribute to open source
+- 💬 **Ask me about:** Android Development, Flutter, React, UI/UX Design
+- 🎯 **2025 Goals:** Master React ecosystem (Hooks, Context, React Query) & advanced Flutter animations
 - ⚡ **Fun fact:** I debug my own thoughts as much as my code!
 
 ---
@@ -125,7 +136,7 @@ graph TD
 
 <div align="center">
 
-*"The best way to predict the future is to create it."* 
+*"The best way to predict the future is to create it."*
 
 **Let's build something amazing together! 🚀**
 
