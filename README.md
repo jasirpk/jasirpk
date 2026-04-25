@@ -32,7 +32,7 @@ const jasir = {
     code: ["JavaScript", "Dart", "Java", "C"],
     technologies: {
         frontEnd: ["HTML5", "CSS3", "React", "Flutter"],
-        mobileApp: ["Flutter", "Android"],
+        mobileApp: ["Flutter", "Android", "IOS"],
         tools: ["Git", "Figma", "VS Code", "Android Studio"],
         architecture: [
             "Responsive Design",
