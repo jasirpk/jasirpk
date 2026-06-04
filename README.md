@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="https://chatgpt.com/s/m_6a21b3e7ab7081919743f51402c0a8e4" width="100%" alt="Programmer"/>
+  <img src="" width="100%" alt="Programmer"/>
 </div>
 
 <div align="center">
