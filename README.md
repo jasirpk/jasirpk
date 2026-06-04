@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="" width="100%" alt="Programmer"/>
+  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="100%" alt="Programmer"/>
 </div>
 
 <div align="center">
