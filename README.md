@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+  <img src="https://gemini.google.com/share/27b66319623f" width="100%" alt="Programmer"/>
 </div>
 
 <div align="center">
